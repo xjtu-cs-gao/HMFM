@@ -11,6 +11,19 @@ This repository contains the MapTR-based implementation of our TITS paper:
 - If you want the HDMapNet-based version, please visit:
   - https://github.com/xjtu-cs-gao/SatforHDMap
 
+## Dataset
+
+Compared with the original MapTR setting, we additionally use satellite data.
+
+- nuScenes satellite dataset:
+  - https://www.kaggle.com/datasets/wjgao0101/satfornuscenes
+- Argoverse 2 (AV2) satellite dataset:
+  - https://www.kaggle.com/datasets/wjgao0101/satforav2
+
+We also provide an AV2 satellite data generation script in:
+
+- `tools/av2_satellite_convertere`
+
 ## Quick Run
 
 ### 1. Install dependencies
