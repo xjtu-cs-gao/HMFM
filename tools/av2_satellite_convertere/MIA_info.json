@@ -1,0 +1,1307 @@
+{
+    "Miami_-1_-1_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.20173490478516,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_-1_-1_sat.png"
+    },
+    "Miami_-1_-2_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.77860076946504,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.783547157644993,
+        "center_x": -80.20173490478516,
+        "center_y": 25.781073963555016,
+        "path": "./MIA/Miami_-1_-2_sat.png"
+    },
+    "Miami_-1_-3_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.78354715764553,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.788493339553156,
+        "center_x": -80.20173490478516,
+        "center_y": 25.786020248599343,
+        "path": "./MIA/Miami_-1_-3_sat.png"
+    },
+    "Miami_-1_0_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.76870737440023,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.77365417503998,
+        "center_x": -80.20173490478516,
+        "center_y": 25.771180774720104,
+        "path": "./MIA/Miami_-1_0_sat.png"
+    },
+    "Miami_-1_1_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.76376036757242,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.76870737439968,
+        "center_x": -80.20173490478516,
+        "center_y": 25.76623387098605,
+        "path": "./MIA/Miami_-1_1_sat.png"
+    },
+    "Miami_-1_2_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.758813154585425,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.763760367571884,
+        "center_x": -80.20173490478516,
+        "center_y": 25.761286761078654,
+        "path": "./MIA/Miami_-1_2_sat.png"
+    },
+    "Miami_-1_3_sat.png": {
+        "min_x_bound": -80.2044814868164,
+        "min_y_bound": 25.75386573546753,
+        "max_x_bound": -80.1989883227539,
+        "max_y_bound": 25.758813154584875,
+        "center_x": -80.20173490478516,
+        "center_y": 25.756339445026203,
+        "path": "./MIA/Miami_-1_3_sat.png"
+    },
+    "Miami_-2_-1_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.20722806884766,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_-2_-1_sat.png"
+    },
+    "Miami_-2_-2_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.77860076946504,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.783547157644993,
+        "center_x": -80.20722806884766,
+        "center_y": 25.781073963555016,
+        "path": "./MIA/Miami_-2_-2_sat.png"
+    },
+    "Miami_-2_-3_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.78354715764553,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.788493339553156,
+        "center_x": -80.20722806884766,
+        "center_y": 25.786020248599343,
+        "path": "./MIA/Miami_-2_-3_sat.png"
+    },
+    "Miami_-2_0_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.76870737440023,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.77365417503998,
+        "center_x": -80.20722806884766,
+        "center_y": 25.771180774720104,
+        "path": "./MIA/Miami_-2_0_sat.png"
+    },
+    "Miami_-2_1_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.76376036757242,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.76870737439968,
+        "center_x": -80.20722806884766,
+        "center_y": 25.76623387098605,
+        "path": "./MIA/Miami_-2_1_sat.png"
+    },
+    "Miami_-2_2_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.758813154585425,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.763760367571884,
+        "center_x": -80.20722806884766,
+        "center_y": 25.761286761078654,
+        "path": "./MIA/Miami_-2_2_sat.png"
+    },
+    "Miami_-2_3_sat.png": {
+        "min_x_bound": -80.2099746508789,
+        "min_y_bound": 25.75386573546753,
+        "max_x_bound": -80.2044814868164,
+        "max_y_bound": 25.758813154584875,
+        "center_x": -80.20722806884766,
+        "center_y": 25.756339445026203,
+        "path": "./MIA/Miami_-2_3_sat.png"
+    },
+    "Miami_-3_-1_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.21272123291016,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_-3_-1_sat.png"
+    },
+    "Miami_-3_-2_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.77860076946504,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.783547157644993,
+        "center_x": -80.21272123291016,
+        "center_y": 25.781073963555016,
+        "path": "./MIA/Miami_-3_-2_sat.png"
+    },
+    "Miami_-3_-4_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.78849333955372,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.793439315160786,
+        "center_x": -80.21272123291016,
+        "center_y": 25.790966327357253,
+        "path": "./MIA/Miami_-3_-4_sat.png"
+    },
+    "Miami_-3_0_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.76870737440023,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.77365417503998,
+        "center_x": -80.21272123291016,
+        "center_y": 25.771180774720104,
+        "path": "./MIA/Miami_-3_0_sat.png"
+    },
+    "Miami_-3_1_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.76376036757242,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.76870737439968,
+        "center_x": -80.21272123291016,
+        "center_y": 25.76623387098605,
+        "path": "./MIA/Miami_-3_1_sat.png"
+    },
+    "Miami_-3_2_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.758813154585425,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.763760367571884,
+        "center_x": -80.21272123291016,
+        "center_y": 25.761286761078654,
+        "path": "./MIA/Miami_-3_2_sat.png"
+    },
+    "Miami_-3_3_sat.png": {
+        "min_x_bound": -80.2154678149414,
+        "min_y_bound": 25.75386573546753,
+        "max_x_bound": -80.2099746508789,
+        "max_y_bound": 25.758813154584875,
+        "center_x": -80.21272123291016,
+        "center_y": 25.756339445026203,
+        "path": "./MIA/Miami_-3_3_sat.png"
+    },
+    "Miami_0_-1_sat.png": {
+        "min_x_bound": -80.1989883227539,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.1934951586914,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.19624174072266,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_0_-1_sat.png"
+    },
+    "Miami_0_-2_sat.png": {
+        "min_x_bound": -80.1989883227539,
+        "min_y_bound": 25.77860076946504,
+        "max_x_bound": -80.1934951586914,
+        "max_y_bound": 25.783547157644993,
+        "center_x": -80.19624174072266,
+        "center_y": 25.781073963555016,
+        "path": "./MIA/Miami_0_-2_sat.png"
+    },
+    "Miami_0_-4_sat.png": {
+        "min_x_bound": -80.1989883227539,
+        "min_y_bound": 25.78849333955372,
+        "max_x_bound": -80.1934951586914,
+        "max_y_bound": 25.793439315160786,
+        "center_x": -80.19624174072266,
+        "center_y": 25.790966327357253,
+        "path": "./MIA/Miami_0_-4_sat.png"
+    },
+    "Miami_0_1_sat.png": {
+        "min_x_bound": -80.1989883227539,
+        "min_y_bound": 25.76376036757242,
+        "max_x_bound": -80.1934951586914,
+        "max_y_bound": 25.76870737439968,
+        "center_x": -80.19624174072266,
+        "center_y": 25.76623387098605,
+        "path": "./MIA/Miami_0_1_sat.png"
+    },
+    "Miami_0_2_sat.png": {
+        "min_x_bound": -80.1989883227539,
+        "min_y_bound": 25.758813154585425,
+        "max_x_bound": -80.1934951586914,
+        "max_y_bound": 25.763760367571884,
+        "center_x": -80.19624174072266,
+        "center_y": 25.761286761078654,
+        "path": "./MIA/Miami_0_2_sat.png"
+    },
+    "Miami_1_-1_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.19074857666016,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_1_-1_sat.png"
+    },
+    "Miami_1_-2_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.77860076946504,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.783547157644993,
+        "center_x": -80.19074857666016,
+        "center_y": 25.781073963555016,
+        "path": "./MIA/Miami_1_-2_sat.png"
+    },
+    "Miami_1_-4_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.78849333955372,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.793439315160786,
+        "center_x": -80.19074857666016,
+        "center_y": 25.790966327357253,
+        "path": "./MIA/Miami_1_-4_sat.png"
+    },
+    "Miami_1_0_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.76870737440023,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.77365417503998,
+        "center_x": -80.19074857666016,
+        "center_y": 25.771180774720104,
+        "path": "./MIA/Miami_1_0_sat.png"
+    },
+    "Miami_1_1_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.76376036757242,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.76870737439968,
+        "center_x": -80.19074857666016,
+        "center_y": 25.76623387098605,
+        "path": "./MIA/Miami_1_1_sat.png"
+    },
+    "Miami_1_2_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.758813154585425,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.763760367571884,
+        "center_x": -80.19074857666016,
+        "center_y": 25.761286761078654,
+        "path": "./MIA/Miami_1_2_sat.png"
+    },
+    "Miami_1_3_sat.png": {
+        "min_x_bound": -80.1934951586914,
+        "min_y_bound": 25.75386573546753,
+        "max_x_bound": -80.1880019946289,
+        "max_y_bound": 25.758813154584875,
+        "center_x": -80.19074857666016,
+        "center_y": 25.756339445026203,
+        "path": "./MIA/Miami_1_3_sat.png"
+    },
+    "Miami_2_-1_sat.png": {
+        "min_x_bound": -80.1880019946289,
+        "min_y_bound": 25.773654175040523,
+        "max_x_bound": -80.1825088305664,
+        "max_y_bound": 25.778600769464507,
+        "center_x": -80.18525541259766,
+        "center_y": 25.776127472252515,
+        "path": "./MIA/Miami_2_-1_sat.png"
+    },
+    "Miami_2_-4_sat.png": {
+        "min_x_bound": -80.1880019946289,
+        "min_y_bound": 25.78849333955372,
+        "max_x_bound": -80.1825088305664,
+        "max_y_bound": 25.793439315160786,
+        "center_x": -80.18525541259766,
+        "center_y": 25.790966327357253,
+        "path": "./MIA/Miami_2_-4_sat.png"
+    },
+    "Miami_2_0_sat.png": {
+        "min_x_bound": -80.1880019946289,
+        "min_y_bound": 25.76870737440023,
+        "max_x_bound": -80.1825088305664,
+        "max_y_bound": 25.77365417503998,
+        "center_x": -80.18525541259766,
+        "center_y": 25.771180774720104,
+        "path": "./MIA/Miami_2_0_sat.png"
+    },
+    "MIA_-1_-4_sat.png": {
+        "min_x_bound": -80.18014557200742,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.17465240794492,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.17739898997617,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-1_-4_sat.png"
+    },
+    "MIA_-1_0_sat.png": {
+        "min_x_bound": -80.18014557200742,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.17465240794492,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.17739898997617,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-1_0_sat.png"
+    },
+    "MIA_-1_1_sat.png": {
+        "min_x_bound": -80.18014557200742,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.17465240794492,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.17739898997617,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-1_1_sat.png"
+    },
+    "MIA_-1_2_sat.png": {
+        "min_x_bound": -80.18014557200742,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.17465240794492,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.17739898997617,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-1_2_sat.png"
+    },
+    "MIA_-1_3_sat.png": {
+        "min_x_bound": -80.18014557200742,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.17465240794492,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.17739898997617,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-1_3_sat.png"
+    },
+    "MIA_-2_-4_sat.png": {
+        "min_x_bound": -80.18563873606995,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.18014557200742,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.18289215403868,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-2_-4_sat.png"
+    },
+    "MIA_-2_-5_sat.png": {
+        "min_x_bound": -80.18563873606995,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.18014557200742,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.18289215403868,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-2_-5_sat.png"
+    },
+    "MIA_-2_0_sat.png": {
+        "min_x_bound": -80.18563873606995,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.18014557200742,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.18289215403868,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-2_0_sat.png"
+    },
+    "MIA_-2_2_sat.png": {
+        "min_x_bound": -80.18563873606995,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.18014557200742,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.18289215403868,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-2_2_sat.png"
+    },
+    "MIA_-2_3_sat.png": {
+        "min_x_bound": -80.18563873606995,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.18014557200742,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.18289215403868,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-2_3_sat.png"
+    },
+    "MIA_-3_-1_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.18838531810118,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_-3_-1_sat.png"
+    },
+    "MIA_-3_-2_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.18838531810118,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_-3_-2_sat.png"
+    },
+    "MIA_-3_-3_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.18838531810118,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_-3_-3_sat.png"
+    },
+    "MIA_-3_-4_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.18838531810118,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-3_-4_sat.png"
+    },
+    "MIA_-3_-5_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.18838531810118,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-3_-5_sat.png"
+    },
+    "MIA_-3_0_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.18838531810118,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-3_0_sat.png"
+    },
+    "MIA_-3_1_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.18838531810118,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-3_1_sat.png"
+    },
+    "MIA_-3_2_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.18838531810118,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-3_2_sat.png"
+    },
+    "MIA_-3_3_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.18838531810118,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-3_3_sat.png"
+    },
+    "MIA_-3_4_sat.png": {
+        "min_x_bound": -80.19113190013242,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.18563873606995,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.18838531810118,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_-3_4_sat.png"
+    },
+    "MIA_-4_-1_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.19387848216367,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_-4_-1_sat.png"
+    },
+    "MIA_-4_-2_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.19387848216367,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_-4_-2_sat.png"
+    },
+    "MIA_-4_-3_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.19387848216367,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_-4_-3_sat.png"
+    },
+    "MIA_-4_-4_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.19387848216367,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-4_-4_sat.png"
+    },
+    "MIA_-4_-5_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.19387848216367,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-4_-5_sat.png"
+    },
+    "MIA_-4_0_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.19387848216367,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-4_0_sat.png"
+    },
+    "MIA_-4_1_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.19387848216367,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-4_1_sat.png"
+    },
+    "MIA_-4_2_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.19387848216367,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-4_2_sat.png"
+    },
+    "MIA_-4_3_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.19387848216367,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-4_3_sat.png"
+    },
+    "MIA_-4_4_sat.png": {
+        "min_x_bound": -80.19662506419492,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.19113190013242,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.19387848216367,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_-4_4_sat.png"
+    },
+    "MIA_-5_-1_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.19937164622617,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_-5_-1_sat.png"
+    },
+    "MIA_-5_-2_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.19937164622617,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_-5_-2_sat.png"
+    },
+    "MIA_-5_-3_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.19937164622617,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_-5_-3_sat.png"
+    },
+    "MIA_-5_-4_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.19937164622617,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-5_-4_sat.png"
+    },
+    "MIA_-5_-5_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.19937164622617,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-5_-5_sat.png"
+    },
+    "MIA_-5_0_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.19937164622617,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-5_0_sat.png"
+    },
+    "MIA_-5_1_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.19937164622617,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-5_1_sat.png"
+    },
+    "MIA_-5_2_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.19937164622617,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-5_2_sat.png"
+    },
+    "MIA_-5_3_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.19937164622617,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-5_3_sat.png"
+    },
+    "MIA_-5_4_sat.png": {
+        "min_x_bound": -80.20211822825742,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.19662506419492,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.19937164622617,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_-5_4_sat.png"
+    },
+    "MIA_-6_-1_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.20486481028868,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_-6_-1_sat.png"
+    },
+    "MIA_-6_-2_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.20486481028868,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_-6_-2_sat.png"
+    },
+    "MIA_-6_-3_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.20486481028868,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_-6_-3_sat.png"
+    },
+    "MIA_-6_-4_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.20486481028868,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-6_-4_sat.png"
+    },
+    "MIA_-6_-5_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.20486481028868,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-6_-5_sat.png"
+    },
+    "MIA_-6_0_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.20486481028868,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-6_0_sat.png"
+    },
+    "MIA_-6_1_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.20486481028868,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-6_1_sat.png"
+    },
+    "MIA_-6_2_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.20486481028868,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-6_2_sat.png"
+    },
+    "MIA_-6_3_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.20486481028868,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-6_3_sat.png"
+    },
+    "MIA_-6_4_sat.png": {
+        "min_x_bound": -80.20761139231995,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.20211822825742,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.20486481028868,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_-6_4_sat.png"
+    },
+    "MIA_-7_-1_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.21035797435118,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_-7_-1_sat.png"
+    },
+    "MIA_-7_-2_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.21035797435118,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_-7_-2_sat.png"
+    },
+    "MIA_-7_-3_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.21035797435118,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_-7_-3_sat.png"
+    },
+    "MIA_-7_-4_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.21035797435118,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_-7_-4_sat.png"
+    },
+    "MIA_-7_-5_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.21035797435118,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_-7_-5_sat.png"
+    },
+    "MIA_-7_0_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.21035797435118,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_-7_0_sat.png"
+    },
+    "MIA_-7_1_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.21035797435118,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_-7_1_sat.png"
+    },
+    "MIA_-7_2_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.21035797435118,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_-7_2_sat.png"
+    },
+    "MIA_-7_3_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.21035797435118,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_-7_3_sat.png"
+    },
+    "MIA_-7_4_sat.png": {
+        "min_x_bound": -80.21310455638242,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.20761139231995,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.21035797435118,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_-7_4_sat.png"
+    },
+    "MIA_0_-4_sat.png": {
+        "min_x_bound": -80.17465240794492,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.16915924388242,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.17190582591367,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_0_-4_sat.png"
+    },
+    "MIA_0_0_sat.png": {
+        "min_x_bound": -80.17465240794492,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.16915924388242,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.17190582591367,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_0_0_sat.png"
+    },
+    "MIA_0_1_sat.png": {
+        "min_x_bound": -80.17465240794492,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.16915924388242,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.17190582591367,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_0_1_sat.png"
+    },
+    "MIA_0_2_sat.png": {
+        "min_x_bound": -80.17465240794492,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.16915924388242,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.17190582591367,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_0_2_sat.png"
+    },
+    "MIA_0_3_sat.png": {
+        "min_x_bound": -80.17465240794492,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.16915924388242,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.17190582591367,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_0_3_sat.png"
+    },
+    "MIA_1_-4_sat.png": {
+        "min_x_bound": -80.16915924388243,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.16366607981993,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.16641266185118,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_1_-4_sat.png"
+    },
+    "MIA_1_0_sat.png": {
+        "min_x_bound": -80.16915924388243,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.16366607981993,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.16641266185118,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_1_0_sat.png"
+    },
+    "MIA_1_1_sat.png": {
+        "min_x_bound": -80.16915924388243,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.16366607981993,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.16641266185118,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_1_1_sat.png"
+    },
+    "MIA_1_2_sat.png": {
+        "min_x_bound": -80.16915924388243,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.16366607981993,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.16641266185118,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_1_2_sat.png"
+    },
+    "MIA_1_3_sat.png": {
+        "min_x_bound": -80.16915924388243,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.16366607981993,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.16641266185118,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_1_3_sat.png"
+    },
+    "MIA_2_-1_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.16091949778867,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_2_-1_sat.png"
+    },
+    "MIA_2_-4_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.16091949778867,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_2_-4_sat.png"
+    },
+    "MIA_2_0_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.16091949778867,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_2_0_sat.png"
+    },
+    "MIA_2_1_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.16091949778867,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_2_1_sat.png"
+    },
+    "MIA_2_2_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.16091949778867,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_2_2_sat.png"
+    },
+    "MIA_2_3_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.16091949778867,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_2_3_sat.png"
+    },
+    "MIA_2_4_sat.png": {
+        "min_x_bound": -80.16366607981992,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.15817291575742,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.16091949778867,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_2_4_sat.png"
+    },
+    "MIA_3_-1_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.15542633372617,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_3_-1_sat.png"
+    },
+    "MIA_3_-4_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.15542633372617,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_3_-4_sat.png"
+    },
+    "MIA_3_0_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.15542633372617,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_3_0_sat.png"
+    },
+    "MIA_3_1_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.15542633372617,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_3_1_sat.png"
+    },
+    "MIA_3_2_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.15542633372617,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_3_2_sat.png"
+    },
+    "MIA_3_3_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.15542633372617,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_3_3_sat.png"
+    },
+    "MIA_3_4_sat.png": {
+        "min_x_bound": -80.15817291575742,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.15267975169492,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.15542633372617,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_3_4_sat.png"
+    },
+    "MIA_4_-4_sat.png": {
+        "min_x_bound": -80.15267975169492,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.14718658763245,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.14993316966368,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_4_-4_sat.png"
+    },
+    "MIA_4_0_sat.png": {
+        "min_x_bound": -80.15267975169492,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.14718658763245,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.14993316966368,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_4_0_sat.png"
+    },
+    "MIA_4_2_sat.png": {
+        "min_x_bound": -80.15267975169492,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.14718658763245,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.14993316966368,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_4_2_sat.png"
+    },
+    "MIA_4_3_sat.png": {
+        "min_x_bound": -80.15267975169492,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.14718658763245,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.14993316966368,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_4_3_sat.png"
+    },
+    "MIA_4_4_sat.png": {
+        "min_x_bound": -80.15267975169492,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.14718658763245,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.14993316966368,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_4_4_sat.png"
+    },
+    "MIA_5_-1_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.14444000560118,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_5_-1_sat.png"
+    },
+    "MIA_5_-2_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.14444000560118,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_5_-2_sat.png"
+    },
+    "MIA_5_-3_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.14444000560118,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_5_-3_sat.png"
+    },
+    "MIA_5_-4_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.14444000560118,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_5_-4_sat.png"
+    },
+    "MIA_5_-5_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.14444000560118,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_5_-5_sat.png"
+    },
+    "MIA_5_0_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.14444000560118,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_5_0_sat.png"
+    },
+    "MIA_5_1_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.14444000560118,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_5_1_sat.png"
+    },
+    "MIA_5_2_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.14444000560118,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_5_2_sat.png"
+    },
+    "MIA_5_3_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.14444000560118,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_5_3_sat.png"
+    },
+    "MIA_5_4_sat.png": {
+        "min_x_bound": -80.14718658763245,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.14169342356992,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.14444000560118,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_5_4_sat.png"
+    },
+    "MIA_6_-1_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.791902898288487,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.796848731664635,
+        "center_x": -80.13894684153867,
+        "center_y": 25.79437581497656,
+        "path": "./MIA/MIA_6_-1_sat.png"
+    },
+    "MIA_6_-2_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.796848731665197,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.80179435869304,
+        "center_x": -80.13894684153867,
+        "center_y": 25.79932154517912,
+        "path": "./MIA/MIA_6_-2_sat.png"
+    },
+    "MIA_6_-3_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.801794358693588,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.806739779344905,
+        "center_x": -80.13894684153867,
+        "center_y": 25.804267069019247,
+        "path": "./MIA/MIA_6_-3_sat.png"
+    },
+    "MIA_6_-4_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.80673977934548,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.81168499359202,
+        "center_x": -80.13894684153867,
+        "center_y": 25.80921238646875,
+        "path": "./MIA/MIA_6_-4_sat.png"
+    },
+    "MIA_6_-5_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.811684993592593,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.816630001406175,
+        "center_x": -80.13894684153867,
+        "center_y": 25.814157497499384,
+        "path": "./MIA/MIA_6_-5_sat.png"
+    },
+    "MIA_6_0_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.786956858591775,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.79190289828794,
+        "center_x": -80.13894684153867,
+        "center_y": 25.789429878439858,
+        "path": "./MIA/MIA_6_0_sat.png"
+    },
+    "MIA_6_1_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.782010612603255,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.78695685859123,
+        "center_x": -80.13894684153867,
+        "center_y": 25.78448373559724,
+        "path": "./MIA/MIA_6_1_sat.png"
+    },
+    "MIA_6_2_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.777064160351216,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.782010612602704,
+        "center_x": -80.13894684153867,
+        "center_y": 25.77953738647696,
+        "path": "./MIA/MIA_6_2_sat.png"
+    },
+    "MIA_6_3_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.772117501863935,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.777064160350672,
+        "center_x": -80.13894684153867,
+        "center_y": 25.774590831107304,
+        "path": "./MIA/MIA_6_3_sat.png"
+    },
+    "MIA_6_4_sat.png": {
+        "min_x_bound": -80.14169342356992,
+        "min_y_bound": 25.767170637169617,
+        "max_x_bound": -80.13620025950742,
+        "max_y_bound": 25.772117501863374,
+        "center_x": -80.13894684153867,
+        "center_y": 25.769644069516495,
+        "path": "./MIA/MIA_6_4_sat.png"
+    }
+}
