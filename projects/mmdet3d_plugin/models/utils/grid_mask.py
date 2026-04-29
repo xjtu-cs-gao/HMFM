@@ -49,7 +49,7 @@ class Grid(object):
         r = np.random.randint(self.rotate)
         mask = Image.fromarray(np.uint8(mask))
         mask = mask.rotate(r)
-        mask = np.asarray(mask)
+        mask = np.asarray(mask).copy()
         mask = mask[(hh-h)//2:(hh-h)//2+h, (ww-w)//2:(ww-w)//2+w]
 
         mask = torch.from_numpy(mask).float()
@@ -108,7 +108,7 @@ class GridMask(nn.Module):
         r = np.random.randint(self.rotate)
         mask = Image.fromarray(np.uint8(mask))
         mask = mask.rotate(r)
-        mask = np.asarray(mask)
+        mask = np.asarray(mask).copy()
         mask = mask[(hh-h)//2:(hh-h)//2+h, (ww-w)//2:(ww-w)//2+w]
 
         mask = torch.from_numpy(mask).to(x.dtype).cuda()

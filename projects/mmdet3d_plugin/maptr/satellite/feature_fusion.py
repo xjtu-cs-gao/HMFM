@@ -16,22 +16,28 @@ class Seg_Masked_Attention_Fusion(BaseModule):
                  decoder_layers=3, dropout=0.1,
                  dis=5,
                  num_heads=8, mlp_ratio=4, drop=0.,
-                 drop_path=0., norm_layer=nn.LayerNorm
+                 drop_path=0., norm_layer=nn.LayerNorm,
+                 residual_init=0.
                  ):
         super(Seg_Masked_Attention_Fusion, self).__init__()
         
         # Initialize parameters
         self.img_size = bev_size
-        self.patch_size = patch_size[0]
-        self.grid_size = (int(self.img_size[0] / patch_size[0]), int(self.img_size[1] / patch_size[1]))
+        self.patch_size = to_2tuple(patch_size)
+        self.grid_size = (int(self.img_size[0] / self.patch_size[0]), int(self.img_size[1] / self.patch_size[1]))
         self.n_patches = self.grid_size[0] * self.grid_size[1]
         self.bev_channels = bev_channels
         self.prior_channels = prior_channels
         self.hidden_c = hidden_c
         self.drop_out = dropout
+        assert self.img_size[0] % self.patch_size[0] == 0 and self.img_size[1] % self.patch_size[1] == 0
 
         # Define layers
-        self.patch_embedding = PatchEmbed(bev_in_channels=self.bev_channels, prior_in_channels=self.prior_channels, out_channels=self.hidden_c, img_size=self.img_size)
+        self.patch_embedding = PatchEmbed(bev_in_channels=self.bev_channels,
+                                          prior_in_channels=self.prior_channels,
+                                          out_channels=self.hidden_c,
+                                          img_size=self.img_size,
+                                          patch_size=self.patch_size)
         self.decoder_layers = decoder_layers
         self.decoder = nn.ModuleList([
             TransformerDecoderLayer(dim=hidden_c, input_resolution=self.grid_size,
@@ -40,7 +46,8 @@ class Seg_Masked_Attention_Fusion(BaseModule):
                                  drop=drop, 
                                  norm_layer=norm_layer)
             for i in range(self.decoder_layers)])
-        self.expand = nn.Linear(self.hidden_c, (self.patch_size**2)*self.bev_channels, bias=False)
+        self.expand = nn.Linear(self.hidden_c, self.patch_size[0]*self.patch_size[1]*self.bev_channels, bias=False)
+        self.residual_scale = nn.Parameter(torch.tensor(float(residual_init)))
         self.drop = Dropout(self.drop_out)
         self.dis = dis
         self.get_mask = Mask(prior_channels, num_heads, patch_size, self.grid_size, self.dis)
@@ -63,19 +70,23 @@ class Seg_Masked_Attention_Fusion(BaseModule):
         query_feat = self.expand(query_feat)
         query_feat = self.drop(query_feat)
 
-        # Reshape to original image size
-        x = query_feat.permute(0, 2, 1).contiguous().view(bs, self.bev_channels, self.img_size[0], self.img_size[1])
+        # Restore patch tokens to their original spatial locations.
+        grid_h, grid_w = self.grid_size
+        patch_h, patch_w = self.patch_size
+        x = query_feat.view(bs, grid_h, grid_w, patch_h, patch_w, self.bev_channels)
+        x = x.permute(0, 5, 1, 3, 2, 4).contiguous()
+        x = x.view(bs, self.bev_channels, self.img_size[0], self.img_size[1])
 
-        return x
+        return bev_features + self.residual_scale * x
 
 
 class PatchEmbed(nn.Module):
     def __init__(self, bev_in_channels, prior_in_channels, out_channels, img_size=(100,200), patch_size=(5, 5), dropout_rate=0.1):
         super(PatchEmbed, self).__init__()
         self.img_size = img_size
-        self.patch_size = patch_size[0]
+        self.patch_size = to_2tuple(patch_size)
 
-        self.grid_size = (int(img_size[0] / patch_size[0]), int(img_size[1] / patch_size[1]))
+        self.grid_size = (int(img_size[0] / self.patch_size[0]), int(img_size[1] / self.patch_size[1]))
         self.n_patches = self.grid_size[0] * self.grid_size[1]
 
         self.bev_patch_embedding = Conv2d(in_channels=bev_in_channels,
@@ -116,7 +127,7 @@ class Mask(nn.Module):
         super(Mask, self).__init__()
         self.dis = dis
         self.num_heads = num_heads
-        self.patch_size = patch_size[0]
+        self.patch_size = to_2tuple(patch_size)
         self.grid_size = grid_size
 
         self.register_buffer('dis_mask', self.get_distance_mask(dis))

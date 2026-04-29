@@ -81,7 +81,7 @@ model = dict(
         style='pytorch'),
     satellite_map_backbone=dict(
         type='ResUNet',
-        outC=512
+        outC=_dim_
     ),
     img_neck=dict(
         type='FPN',
@@ -122,6 +122,9 @@ model = dict(
             embed_dims=_dim_,
             satellite_map_fusion=dict(
                 type='HMFM',
+                bev_channels=_dim_,
+                prior_channels=_dim_,
+                hidden_channels=_dim_,
                 feature_fusion=dict(
                     type='Seg_Masked_Attention_Fusion',
                 ),
@@ -273,7 +276,7 @@ test_pipeline = [
 ]
 
 data = dict(
-    samples_per_gpu=1,
+    samples_per_gpu=4,
     workers_per_gpu=4, # TODO
     train=dict(
         type=dataset_type,
@@ -359,6 +362,7 @@ log_config = dict(
         dict(type='TextLoggerHook'),
         dict(type='TensorboardLoggerHook')
     ])
+
 fp16 = dict(loss_scale=512.)
 checkpoint_config = dict(max_keep_ckpts=1, interval=2)
 find_unused_parameters=True
