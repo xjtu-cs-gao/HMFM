@@ -17,6 +17,7 @@ Compared with the original MapTR setting, we additionally use satellite data.
 
 - nuScenes satellite dataset:
   - https://www.kaggle.com/datasets/wjgao0101/satfornuscenes
+  - If `map_prior_maptrv2.json` is missing, download it from https://www.kaggle.com/datasets/wjgao0101/satfornuscenes?select=map_prior_maptrv2.json
 - Argoverse 2 (AV2) satellite dataset:
   - https://www.kaggle.com/datasets/wjgao0101/satforav2
 
